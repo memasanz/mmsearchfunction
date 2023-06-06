@@ -336,6 +336,10 @@
 							"name": "API_VERSION",
 							"value": "2022-12-01"
 						},
+						{
+							"name": "TEXT_EMBEDDING_MODEL",
+							"value": "text-embedding-ada-002"
+						},
 						
 					
 					
